@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ecommreactjsapp.github.io.git/static/css/main.a834b79b.css",
+    "main.js": "/ecommreactjsapp.github.io.git/static/js/main.b1242a80.js",
+    "static/js/787.988fb20b.chunk.js": "/ecommreactjsapp.github.io.git/static/js/787.988fb20b.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/ecommreactjsapp.github.io.git/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/ecommreactjsapp.github.io.git/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "index.html": "/ecommreactjsapp.github.io.git/index.html",
+    "main.a834b79b.css.map": "/ecommreactjsapp.github.io.git/static/css/main.a834b79b.css.map",
+    "main.b1242a80.js.map": "/ecommreactjsapp.github.io.git/static/js/main.b1242a80.js.map",
+    "787.988fb20b.chunk.js.map": "/ecommreactjsapp.github.io.git/static/js/787.988fb20b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a834b79b.css",
+    "static/js/main.b1242a80.js"
+  ]
+}
