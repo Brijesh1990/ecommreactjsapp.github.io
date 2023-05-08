@@ -24,18 +24,18 @@ root.render(
   <React.StrictMode>
     <BrowserRouter>
       <Routes>
-        <Route path='/' element={<App />}></Route>
-        <Route path='/products' element={<Products />}></Route>
-        <Route path='/aboutus' element={<AboutUs />}></Route>
-        <Route path='/contactus' element={<ContactUs />}></Route>
-        <Route path='/cart' element={<Cart />}></Route>
-        <Route path='/login' element={<Login />}></Route>
-        <Route path='/register' element={<RegisterUs />}></Route>
-        <Route path='/products' element={<Products />}></Route>
-        <Route path='/productdetails' element={<ProductDetails />}></Route>
-        <Route path='/viewcart' element={<ViewCart />}></Route>
-        <Route path='/checkout' element={<Checkout />}></Route>
-        <Route path='/bill' element={<Bill />}></Route>
+        <Route path='https://brijesh1990.github.io/ecommreactjsapp.github.io' element={<App />}></Route>
+        <Route path='https://brijesh1990.github.io/ecommreactjsapp.github.io/products' element={<Products />}></Route>
+        <Route path='https://brijesh1990.github.io/ecommreactjsapp.github.io/aboutus' element={<AboutUs />}></Route>
+        <Route path='https://brijesh1990.github.io/ecommreactjsapp.github.io/contactus' element={<ContactUs />}></Route>
+        <Route path='https://brijesh1990.github.io/ecommreactjsapp.github.io/cart' element={<Cart />}></Route>
+        <Route path='https://brijesh1990.github.io/ecommreactjsapp.github.io/login' element={<Login />}></Route>
+        <Route path='https://brijesh1990.github.io/ecommreactjsapp.github.io/register' element={<RegisterUs />}></Route>
+        <Route path='https://brijesh1990.github.io/ecommreactjsapp.github.io/products' element={<Products />}></Route>
+        <Route path='https://brijesh1990.github.io/ecommreactjsapp.github.io/productdetails' element={<ProductDetails />}></Route>
+        <Route path='https://brijesh1990.github.io/ecommreactjsapp.github.io/viewcart' element={<ViewCart />}></Route>
+        <Route path='https://brijesh1990.github.io/ecommreactjsapp.github.io/checkout' element={<Checkout />}></Route>
+        <Route path='https://brijesh1990.github.io/ecommreactjsapp.github.io/bill' element={<Bill />}></Route>
         <Route path='*' element={<PagenotFound />}></Route>
       </Routes>
     </BrowserRouter>
